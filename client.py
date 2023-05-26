@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://localhost:500/hello'
+url = 'http://localhost:5000/hello'
 
 response = requests.get(url)
 
